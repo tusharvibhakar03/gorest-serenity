@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User crud test","This will create new user","SUCCESS","2023-01-02T20:18:00.109Z[Europe/London]","0.0","7.14"
+"User crud test","This test will Update the user information","SUCCESS","2023-01-02T20:18:07.287Z[Europe/London]","0.0","1.76"
+"User crud test","Delete the student and verify if the user is deleted!","SUCCESS","2023-01-02T20:18:09.045Z[Europe/London]","0.0","1.23"

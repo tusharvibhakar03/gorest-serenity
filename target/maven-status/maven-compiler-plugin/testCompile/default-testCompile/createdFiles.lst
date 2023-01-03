@@ -1,0 +1,3 @@
+com\gorest\testbase\TestBase.class
+com\gorest\AppTest.class
+com\gorest\testsuite\UserCrudTest.class
